@@ -180,7 +180,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Content in other languages
 
-- [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+- [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - Repository with curated content on Quantum Computing in Portuguese.
 
 ## License
 
